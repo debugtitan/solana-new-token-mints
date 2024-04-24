@@ -4,7 +4,6 @@ Get notifications on newly minted tokens on the Solana Blockchain
 
 [Bot Demo ](https://t.me/newlymint)
 
->> Willing to make it opensource if reach 50 stars
 >> [Reach out to me on telegram ](https://t.me/altcoinist)
 
 ## Language Used 
